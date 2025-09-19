@@ -1,0 +1,417 @@
+{
+  "name": "Arslan Ahıskalı & Yıldız Ahıskalı",
+  "parents": [
+    {
+      "name": "Arslan Ahıskalı",
+      "dob": "1925-1970",
+      "role": "Parent"
+    },
+    {
+      "name": "Yıldız Ahıskalı",
+      "dob": "1930-1970",
+      "role": "Parent"
+    }
+  ],
+  "children": [
+    {
+      "name": "Bahri Ahıskalı & Asuman Ahıskalı",
+      "parents": [
+        {
+          "name": "Bahri Ahıskalı",
+          "dob": "1947-2006",
+          "role": "Parent"
+        },
+        {
+          "name": "Asuman Ahıskalı",
+          "dob": "1954-1992",
+          "role": "Spouse"
+        }
+      ],
+      "children": [
+        {
+          "name": "İzzet Ahıskalı & Gülendam Ahıskalı",
+          "parents": [
+            {
+              "name": "İzzet Ahıskalı",
+              "dob": "1967-",
+              "role": "Parent"
+            },
+            {
+              "name": "Gülendam Ahıskalı",
+              "dob": "1969-",
+              "role": "Spouse"
+            }
+          ],
+          "children": [
+            {
+              "name": "Elif Ahıskalı",
+              "parents": [
+                {
+                  "name": "Elif Ahıskalı",
+                  "dob": "1992-1992",
+                  "role": "Parent"
+                }
+              ]
+            },
+            {
+              "name": "Savaş Ahıskalı & Duru Ahıskalı",
+              "parents": [
+                {
+                  "name": "Savaş Ahıskalı",
+                  "dob": "1996-2018",
+                  "role": "Parent"
+                },
+                {
+                  "name": "Duru Ahıskalı",
+                  "dob": "1998-",
+                  "role": "Spouse"
+                }
+              ]
+            },
+            {
+              "name": "Murat Ahıskalı",
+              "parents": [
+                {
+                  "name": "Murat Ahıskalı",
+                  "dob": "1997-2014",
+                  "role": "Parent"
+                }
+              ]
+            },
+            {
+              "name": "Cihan Ahıskalı",
+              "parents": [
+                {
+                  "name": "Cihan Ahıskalı",
+                  "dob": "1997-2017",
+                  "role": "Parent"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Savaş Ahıskalı",
+          "parents": [
+            {
+              "name": "Savaş Ahıskalı",
+              "dob": "1973-1991",
+              "role": "Parent"
+            }
+          ]
+        },
+        {
+          "name": "Feride Ahıskalı Soldaner & Tansu Soldaner",
+          "parents": [
+            {
+              "name": "Feride Ahıskalı Soldaner",
+              "dob": "1975-2005",
+              "role": "Parent"
+            },
+            {
+              "name": "Tansu Soldaner",
+              "dob": "1974-",
+              "role": "Spouse"
+            }
+          ],
+          "children": [
+            {
+              "name": "Fidel Soldaner",
+              "parents": [
+                {
+                  "name": "Fidel Soldaner",
+                  "dob": "1992-1992",
+                  "role": "Parent"
+                }
+              ]
+            },
+            {
+              "name": "Deniz Soldaner",
+              "parents": [
+                {
+                  "name": "Deniz Soldaner",
+                  "dob": "1996-2018",
+                  "role": "Parent"
+                }
+              ]
+            },
+            {
+              "name": "Direniş Soldaner",
+              "parents": [
+                {
+                  "name": "Direniş Soldaner",
+                  "dob": "1997-2014",
+                  "role": "Parent"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Baybars Ahıskalı & Nurcihan Ahıskalı",
+          "parents": [
+            {
+              "name": "Baybars Ahıskalı",
+              "dob": "1978-2012",
+              "role": "Parent"
+            },
+            {
+              "name": "Nurcihan Ahıskalı",
+              "dob": "1980-",
+              "role": "Spouse"
+            }
+          ],
+          "children": [
+            {
+              "name": "Atlas Ahıskalı",
+              "parents": [
+                {
+                  "name": "Atlas Ahıskalı",
+                  "dob": "1992-1992",
+                  "role": "Parent"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Atilla Ahıskalı & Handan Ahıskalı",
+          "parents": [
+            {
+              "name": "Atilla Ahıskalı",
+              "dob": "1978-2014",
+              "role": "Parent"
+            },
+            {
+              "name": "Handan Ahıskalı",
+              "dob": "1977-",
+              "role": "Spouse"
+            }
+          ],
+          "children": [
+            {
+              "name": "Yavuz Ahıskalı",
+              "parents": [
+                {
+                  "name": "Yavuz Ahıskalı",
+                  "dob": "1992-1992",
+                  "role": "Parent"
+                }
+              ]
+            },
+            {
+              "name": "Fatih Ahıskalı",
+              "parents": [
+                {
+                  "name": "Fatih Ahıskalı",
+                  "dob": "1996-2018",
+                  "role": "Parent"
+                }
+              ]
+            },
+            {
+              "name": "Eda Ahıskalı",
+              "parents": [
+                {
+                  "name": "Eda Ahıskalı",
+                  "dob": "1997-2014",
+                  "role": "Parent"
+                }
+              ]
+            },
+            {
+              "name": "Ela Ahıskalı",
+              "parents": [
+                {
+                  "name": "Ela Ahıskalı",
+                  "dob": "1997-2014",
+                  "role": "Parent"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Asaf Ahıskalı & Gülşen Ahıskalı",
+          "parents": [
+            {
+              "name": "Asaf Ahıskalı",
+              "dob": "1981-2015",
+              "role": "Parent"
+            },
+            {
+              "name": "Gülşen Ahıskalı",
+              "dob": "1986-",
+              "role": "Spouse"
+            }
+          ],
+          "children": [
+            {
+              "name": "Ali Ahıskalı",
+              "parents": [
+                {
+                  "name": "Ali Ahıskalı",
+                  "dob": "1992-1992",
+                  "role": "Parent"
+                }
+              ]
+            },
+            {
+              "name": "Kaan Ahıskalı",
+              "parents": [
+                {
+                  "name": "Kaan Ahıskalı",
+                  "dob": "1996-2018",
+                  "role": "Parent"
+                }
+              ]
+            },
+            {
+              "name": "Esila Ahıskalı",
+              "parents": [
+                {
+                  "name": "Esila Ahıskalı",
+                  "dob": "1997-2014",
+                  "role": "Parent"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Yusuf Ahıskalı & Esin Ahıskalı",
+          "parents": [
+            {
+              "name": "Yusuf Ahıskalı",
+              "dob": "1988-2019",
+              "role": "Parent"
+            },
+            {
+              "name": "Esin Ahıskalı",
+              "dob": "1988-2019",
+              "role": "Spouse"
+            }
+          ],
+          "children": [
+            {
+              "name": "Defne Ahıskalı",
+              "parents": [
+                {
+                  "name": "Defne Ahıskalı",
+                  "dob": "1992-1992",
+                  "role": "Parent"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Alparslan Ahıskalı & Elif Elena Ahıskalı",
+          "parents": [
+            {
+              "name": "Alparslan Ahıskalı",
+              "dob": "1992-",
+              "role": "Parent"
+            },
+            {
+              "name": "Elif Elena Ahıskalı",
+              "dob": "1997",
+              "role": "Spouse"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zarife Tüydiken & Zarif Tüydiken",
+      "parents": [
+        {
+          "name": "Zarife Tüydiken",
+          "dob": "1955-",
+          "role": "Parent"
+        },
+        {
+          "name": "Zarif Tüydiken",
+          "dob": "1950-2001",
+          "role": "Spouse"
+        }
+      ],
+      "children": [
+        {
+          "name": "Nigar Yerebatmaz & Dikmen Yerebatmaz",
+          "parents": [
+            {
+              "name": "Nigar Yerebatmaz",
+              "dob": "1976-",
+              "role": "Parent"
+            },
+            {
+              "name": "Dikmen Yerebatmaz",
+              "dob": "1977-",
+              "role": "Spouse"
+            }
+          ],
+          "children": [
+            {
+              "name": "Aslı Yerebatmaz",
+              "parents": [
+                {
+                  "name": "Aslı Yerebatmaz",
+                  "dob": "1997-2016",
+                  "role": "Parent"
+                }
+              ]
+            },
+            {
+              "name": "Enes Yerebatmaz",
+              "parents": [
+                {
+                  "name": "Enes Yerebatmaz",
+                  "dob": "2007-",
+                  "role": "Parent"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Nuri Tüydiken",
+          "parents": [
+            {
+              "name": "Nuri Tüydiken",
+              "dob": "1971-",
+              "role": "Parent"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eşref Ahıskalı & Gülayşe Ahıskalı",
+      "parents": [
+        {
+          "name": "Eşref Ahıskalı",
+          "dob": "1955-1990",
+          "role": "Parent"
+        },
+        {
+          "name": "Gülayşe Ahıskalı",
+          "dob": "1959-",
+          "role": "Spouse"
+        }
+      ],
+      "children": [
+        {
+          "name": "Turan Ahıskalı",
+          "parents": [
+            {
+              "name": "Turan Ahıskalı",
+              "dob": "1980-",
+              "role": "Parent"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
